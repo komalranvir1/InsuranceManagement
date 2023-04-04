@@ -17,7 +17,7 @@ should be associated with a client and for claim should be associated withan ins
 
 ## Running the application locally
 
-There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.oneup.Application` class from your IDE.
+There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.insurence.management` class from your IDE.
 
 - Download the zip or clone the Git repository.
 - Unzip the zip file (if you downloaded one)
