@@ -1,0 +1,7 @@
+package com.insurence.management.enums;
+
+public enum InsurenceStatus {
+
+	PREPARED,DOENLOADED,SCRUB,SUBMITTED,RECIEVED,MORE_INFO_REQUIRED,ACCEPTED,REJECTED,DENIED,
+	DEDUCTIBLE,PAID_PENDING,PAID
+}
